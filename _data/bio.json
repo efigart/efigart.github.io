@@ -15,7 +15,8 @@
   },
   "interests": [
     { "name": "Cyber Security" },
-    { "name": "Artifical Intellegence" }
+    { "name": "Artifical Intellegence" },
+    { "name": "
   ],
   "skills": [
     {
@@ -93,16 +94,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "LCC Dean's List",
+      "date": "Fall 2023",
+      "awarder": "Leeward Community College",
+      "summary": "Awarded to student who have a cumlative GPA of 3.8 or higher."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Phi Theta Kappa",
+      "date": "2023 - Present",
+      "awarder": "Phi Theta Kappa Honor Society",
+      "summary": "Awarded to 2-year college students with a cumlative GPA of 3.5 or higher."
     }
   ],
   "references": [
