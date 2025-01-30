@@ -6,7 +6,7 @@ title: "Jan Ken Po Emulator"
 date: 2022
 published: true
 labels:
-  - C
+  - Java
 summary: "Assignment for ICS 211."
 ---
 
