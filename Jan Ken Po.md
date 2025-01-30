@@ -18,8 +18,7 @@ game at any time by pressing an "exit" button. When this happens, the score is s
 Here is some code that shows the initilization proecss for some elemets of the GUI.
 
 ```cpp
-byte ADCRead(byte ch)
-// declare buttons + labels + variables
+
    private JButton rock = new JButton("Rock");   
    
    private JButton paper = new JButton("Paper");
@@ -30,6 +29,17 @@ byte ADCRead(byte ch)
    
    private JButton exit = new JButton("Exit");
    
-   private JLabel title = new JLabel("Jan Ken Po", SwingConstants.CENTER);
-
 ```
+Here is some code that shows the ACSII art implementation
+
+```cpp
+
+userDraw.setText("<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_______<br>" +
+                             "---'&nbsp;&nbsp;&nbsp;&nbsp; ____) <br>" +
+                             "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(_____) <br>" +
+                             "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(_____) <br>" +
+                             "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(____) <br>" +
+                             "---.__(___)<br>" +
+                             "</html>");
+
+```        
