@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/music.png
 title: "Playlist"
 date: 2022
 published: true
