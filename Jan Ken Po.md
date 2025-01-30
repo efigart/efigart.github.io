@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/JanKen.png
 title: "Jan Ken Po Emulator"
-date: 2022
+date: 2023
 published: true
 labels:
   - Java
