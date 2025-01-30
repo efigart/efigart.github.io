@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/JanKen.png
 title: "Jan Ken Po Emulator"
 date: 2022
 published: true
