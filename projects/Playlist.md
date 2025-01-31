@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/music.png
-title: "Playlist"
+title: "Playlist Mdoel"
 date: 2022
 published: true
 labels:
   - Java
-summary: "Assignment for ICS 111."
+summary: "This program models a playlist. This was an assignment for ICS 111."
 ---
 
 This program was made for an assignemnt in ICS 111. It was written in Java. 
