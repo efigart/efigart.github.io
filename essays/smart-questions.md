@@ -15,4 +15,4 @@ Communication is a fundamental skill, especially in software development. Being 
 
 Here is an example of a smart way to ask a question. 
 
-[Why is processing a sorted array faster than processing an unsorted array] (https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+[Why is processing a sorted array faster than processing an unsorted array](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
