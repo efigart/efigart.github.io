@@ -17,8 +17,10 @@ the user to enter a song name, artist, minutes, and seconds. These values are
 passed to a constructor for a song object. If all of the values are valid, an 
 object is created and then stored in an array list.
 
-The program utilizes a while-loop to allow the user to add as many songs as they like.
-They also have the option to view or remove a song. 
+The program utilizes a while-loop to allow the user run the program for as long as they like.
+It displays a menu that lists options 1 - 4. These include adding a song, removing a song, 
+viewing the full playlist, and exiting the program. In case of an invalid input, I utilized 
+an exception to display an error message and return the user to the menu. 
 
 This project was made duirng my first ICS class and allowed me to incoroprate many 
 different aspects of coding into one project. It deepend my knowledge and understanding
