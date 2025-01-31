@@ -13,7 +13,7 @@ labels:
 
 My interest in computer science originated at a young age. My first exposure was the Lego mindstorms set. I remember spending countless hours assembling pieces and writing code for it on my laptop. I really enjoyed the sandbox aspect of it, it felt like there was no limit to what I could build and program. I also liked having to problem-solve. There was a lot of trial and error involved but the feeling of finally arriving at a solution was unmatched. It really sparked my interest in coding. Today, my interests have shifted to learning and exploring languages, but I still feel the same excitement when I solve a challenging problem. 
 
-# Pathway
+## Pathway
 
 After completing my freshman year, I decided to switch to the Security Science pathway of my degree. Cyber security captured my interest, I feel like it is an especially relevant field that will only continue to grow in the future. Specifically, I want to explore the process of securing programs and networks, as well as ethical hacking. I am also hoping it will make my post-graduation job search easier. 
 
