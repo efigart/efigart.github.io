@@ -18,5 +18,41 @@ Here is an example of a smart way to ask a question.
 [Why is processing a sorted array faster than processing an unsorted array](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
 
 ```ccp
+#include <algorithm>
+#include <ctime>
+#include <iostream>
 
+int main()
+{
+    // Generate data
+    const unsigned arraySize = 32768;
+    int data[arraySize];
+
+    for (unsigned c = 0; c < arraySize; ++c)
+        data[c] = std::rand() % 256;
+
+    // !!! With this, the next loop runs faster.
+    std::sort(data, data + arraySize);
+
+    // Test
+    clock_t start = clock();
+    long long sum = 0;
+    for (unsigned i = 0; i < 100000; ++i)
+    {
+        for (unsigned c = 0; c < arraySize; ++c)
+        {   // Primary loop.
+            if (data[c] >= 128)
+                sum += data[c];
+        }
+    }
+
+    double elapsedTime = static_cast<double>(clock()-start) / CLOCKS_PER_SEC;
+
+    std::cout << elapsedTime << '\n';
+    std::cout << "sum = " << sum << '\n';
+}
 ```
+
+The provided code is written in C++. It genertaes a random array of random inetegrs and sorts them by value. The program then records and prints the elapsed time. Sorting the array before hand results in a run time of 1.93 seconds, without it it runs in 11.54 seconds. The user also recreated the code in Java, btu recieved a simialr result. I think this is a solid question. It is clear and straightforward, and is a relavent topic in software developemnt. Additionally, the user also provided multiple sources of code to further illustrate his point. As a result, they recived many response and were given insight into their problem. 
+
+
