@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring Typescript"
+title: "Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
