@@ -26,7 +26,7 @@ About a week ago, we were introduced to Bootstrap 5. Initially, it felt very sim
 <img width=45% src="../img/2.png">
 </p>
 
-Earlier this week we were tasked to pick a website, and visually recreate it using Bootstrap 5. I chose to recreate Frank Ocean’s <a href="https://blonded.co/">website</a>. It looks pretty simple but it still took a lot of time and effort to do. The biggest challenge was the formatting, it took a lot of micro formatting in my css file in order to duplicate it. Overall, it was actually enjoyable and allowed me to somewhat familiarize myself with Bootstrap 5. I atteched images above, the left one is the original and the right is my recreation. 
+Earlier this week we were tasked to pick a website, and visually recreate it using Bootstrap 5. I chose to recreate Frank Ocean’s <a href="https://blonded.co/">website</a>. It looks pretty simple but it still took a lot of time and effort to do. The biggest challenge was the formatting, it took a lot of micro adjustments in my css file in order to duplicate it. Overall, it was actually enjoyable and allowed me to somewhat familiarize myself with Bootstrap 5. I atteched images above, the left one is the original and the right is my recreation. 
 
 ## Conclusion
 
