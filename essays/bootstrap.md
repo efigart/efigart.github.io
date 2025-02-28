@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-37
+date: 2025-02-27
 published: true
 labels:
   - Bootstrap 5 
