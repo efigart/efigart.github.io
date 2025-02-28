@@ -22,7 +22,7 @@ In the past couple weeks I had my first experience with html and css. It was muc
 About a week ago, we were introduced to Bootstrap 5. Initially, it felt very similar, however the differences became clear when I looked into it more. The biggest change was the implementation of classes, these allow developers to utilize a consistent styling and layout. Some examples of this are container, column, and row. Additionally, there are many other customizations that can be added on to make other adjustments. It is a lot to remember. 
 
 <p align="center">
-<img width=45% src="main/img/1.png">
+<img width=45% src="efigart.github.io/img/1.png">
 <img width=45% src="main/img/2.png">
 </p>
 
