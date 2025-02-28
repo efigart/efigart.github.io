@@ -21,8 +21,8 @@ In the past couple weeks I had my first experience with html and css. It was muc
 
 About a week ago, we were introduced to Bootstrap 5. Initially, it felt very similar, however the differences became clear when I looked into it more. The biggest change was the implementation of classes, these allow developers to utilize a consistent styling and layout. Some examples of this are container, column, and row. Additionally, there are many other customizations that can be added on to make other adjustments. It is a lot to remember. 
 
-<img width="550px" class="rounded float-start pe-4" src="../img/1.png">
-<img width="550px" class="rounded float-start pe-4" src="../img/2.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/1.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/2.png">
 
 Earlier this week we were tasked to pick a website, and visually recreate it using Bootstrap 5. I chose to recreate Frank Ocean’s <a href="https://blonded.co/">website</a>. It looks pretty simple but it still took a lot of time and effort to do. The biggest challenge was the formatting, it took a lot of micro formatting in my css file in order to duplicate it. Overall, it was actually enjoyable and allowed me to somewhat familiarize myself with Bootstrap 5. I atteched images above, the left one is the original and the right is my recreation. 
 
