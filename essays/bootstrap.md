@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bootstrap 5"
+title: "Learning Curve"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
@@ -23,8 +23,8 @@ About a week ago, we were introduced to Bootstrap 5. Initially, it felt very sim
 
 Earlier this week we were tasked to pick a website, and visually recreate it using Bootstrap 5. I chose to recreate Frank Ocean’s <a href=https://blonded.co/">website</a>. It looks pretty simple but it still took a lot of time and effort to do. The biggest challenge was the formatting, it took a lot of micro formatting in my css file in order to duplicate it. Overall, it was actually enjoyable and allowed me to somewhat familiarize myself with Bootstrap 5. I atteched images of the website and my recreation below. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/1.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/2.png">
 
 
 ## Conclusion
