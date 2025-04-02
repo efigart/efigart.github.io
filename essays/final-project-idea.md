@@ -12,7 +12,7 @@ labels:
 
 ### Problem
 
-Parking at Zone-20 can sometimes be challenging. After a certain time, especially on certain days (Tuesday, Wednesday, Thursday), finding an open spot can be very difficult. This is primarily impacts students who have classes later in the day. 
+Parking at Zone-20 can sometimes be challenging. After a certain time, especially on certain days (Tuesday, Wednesday, Thursday), finding an open spot can be very difficult. This primarily impacts students who have classes later in the day. 
 
 ### Solution
 
@@ -25,11 +25,11 @@ This idea is built / expanded off the parking-reservation project that was menti
 
 ## Approach
 
-To preface, this application would be on a voulantary bases. I don't think it would be realistic to expect eveyrone who parks in Zone-20 to particpate. Also, in order for this to work, there would have to be some sort of numbering / identification system for the stalls. Furthermore, this application would only be useful 3 days out of the week. 
+To preface, this application would be voulantary. I don't think it would be realistic to expect everyone who parks in Zone-20 to particpate. Also, in order for this to work, there would have to be some sort of numbering / identification system for the stalls.
 
-Although non-students also utilize the lot, the main purpose of this app is to assist students. So this application can only be accessed with an account created with a UH email.
+Although non-students also utilize the lot, the main purpose of this app would be to assist students. So this application would only be accessible with an account created with a UH email.
 
-This appliction would have two user groups: Students and Admin. Students can veiw / add / remove spots. Admins have access to to the full site + data. 
+This appliction would have two user groups: Students and Admin. Students can veiw / add / remove spots. Admins have access to the full site + data. 
 
 Some possible mockup pages include:
 
@@ -45,7 +45,7 @@ Some possible mockup pages include:
 - a user opens the "add spot" page, and inputs their stall number / location
 - later, the same user opens the "remove spot" page and marks their spot as avialable
 - the stall number is then passed and displayed on the "view available spots" page
-- a different user arrives, logs in / creates an account, and opens the "view available spots" page
+- a different user arrives (when it is crowded), logs in / creates an account, and opens the "view available spots" page
 - they pick from the list of spots and drive to it, if it is available, they park, open the "add spot" page, and input their stall number / location
 - the stall is removed from the "view avilable spots page"
 
