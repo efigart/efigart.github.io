@@ -21,7 +21,7 @@ This idea is built / expanded off the parking-reservation project that was menti
 - when students arrive (presumably in the morning) they can input their stall number / location into the app
 - when they leave, they can open the app and mark their spot as available
 - students arriving later in the day (when the lot is relatively full) can open the app and view a list of available spots, eliminting the need to endlessly circle the lot
-- if they take a spot listed on the app, they can mark it as taken and it will be removed from the list of avaiable spots
+- if they take a spot listed on the app, they can mark it as taken and it will be removed from the list of available spots
 
 ## Approach
 
@@ -29,7 +29,7 @@ To preface, this application would be on a voulantary bases. I don't think it wo
 
 Although non-students also utilize the lot, the main purpose of this app is to assist students. So this application can only be accessed with an account created with a UH email.
 
-This appliction would have two user groups: Students and Admin. Students can veiw / add avaibale spots. Admins have access to to the full site + data. 
+This appliction would have two user groups: Students and Admin. Students can veiw / add / remove spots. Admins have access to to the full site + data. 
 
 Some possible mockup pages include:
 
@@ -54,8 +54,6 @@ Some possible mockup pages include:
 - the "view available spots" page is sorted by time
 - a spot will be automatically removed from the "view available spots" page after a pre-determined amount of time 
 - admins can view inputs from the "add spot" page 
-
-### To Prevent Malicious Behavior 
 - a student is only allowed to "add" one spot at a time
 - a student can only "remove" a spot they have previously added
  
