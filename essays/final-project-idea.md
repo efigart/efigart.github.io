@@ -12,7 +12,7 @@ labels:
 
 ### Problem
 
-Parking at Zone-20 can sometimes be challenging. After a certain time, especially on certain days, finding an open spot can be very difficult. This is primarily impacts students who have classes later in the day. 
+Parking at Zone-20 can sometimes be challenging. After a certain time, especially on certain days (Tuesday, Wednesday, Thursday), finding an open spot can be very difficult. This is primarily impacts students who have classes later in the day. 
 
 ### Solution
 
@@ -25,7 +25,7 @@ This idea is built / expanded off the parking-reservation project that was menti
 
 ## Approach
 
-To preface, this application would be on a voulantary bases. I don't think it would be realistic to expect eveyrone who parks in Zone-20 to particpate. Also, in order for this to work, there would have to be some sort of numbering system for the stalls. 
+To preface, this application would be on a voulantary bases. I don't think it would be realistic to expect eveyrone who parks in Zone-20 to particpate. Also, in order for this to work, there would have to be some sort of numbering / identification system for the stalls. Furthermore, this application would only be useful 3 days out of the week. 
 
 Although non-students also utilize the lot, the main purpose of this app is to assist students. So this application can only be accessed with an account created with a UH email.
 
@@ -44,9 +44,19 @@ Some possible mockup pages include:
 - a new user arrves at the landing page and is prompted to make an account
 - a user opens the "add spot" page, and inputs their stall number / location
 - later, the same user opens the "remove spot" page and marks their spot as avialable
+- the stall number is then passed and displayed on the "view available spots" page
 - a different user arrives, logs in / creates an account, and opens the "view available spots" page
 - they pick from the list of spots and drive to it, if it is available, they park, open the "add spot" page, and input their stall number / location
 - the stall is removed from the "view avilable spots page"
 
-## 
+## Beyond the Basics 
+
+- the "view available spots" page is sorted by time
+- a spot will be automatically removed from the "view available spots" page after a pre-determined amount of time 
+- admins can view inputs from the "add spot" page 
+
+### To Prevent Malicious Behavior 
+- a student is only allowed to "add" one spot at a time
+- a student can only "remove" a spot they have previously added
+ 
 
