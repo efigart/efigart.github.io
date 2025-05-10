@@ -51,5 +51,18 @@ I don't think I asked / answered a smart question.
 
 ### 9. Coding example 
 
+Similar to 6, I think I did use it this way but I can't remember an example. I also think this is an area where ChatGPT excells. 
+
+### 10. Explaining Code
+
+Yes, there were a lot of foreign or forgotten concpets of code I saw this semester, asking ChatGpt to explan specifc parts of code helped me tremendously. It made it easier to understand, which deepend my knowledge of the code itself.
+
+### 11. Writing Code
+
+Well sort of, sometimes I would ask ChatGPT to write code to do a certain tasks, but I would always add it to my code myself. I don't really like the idea od just copy and pasting.
+
+
+
+
 
 
