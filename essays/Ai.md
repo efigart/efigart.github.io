@@ -87,5 +87,9 @@ I think the main issue / challenge for me was the over-reliance on ChatGPT for a
 
 ## Comparitive Analysis 
 
+Compared to traditional methods like reading docuumnets or consulting stack overflow, Ai can provide faster, custom tailored repsonses. However, i do think this ultamitely reduced knowledge retainment and skill development. I think there needs to be a balance of the two in order for students to have the best expirence. 
+
+## Future Considerations 
+
 
 
