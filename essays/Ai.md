@@ -61,6 +61,17 @@ Yes, there were a lot of foreign or forgotten concpets of code I saw this semest
 
 Well sort of, sometimes I would ask ChatGPT to write code to do a certain tasks, but I would always add it to my code myself. I don't really like the idea od just copy and pasting.
 
+### 12. Documenting Code 
+
+Unlike previous ICS classes I have been in, I did not write that much, if any, documentation code for my assignments. I think in-line comments were the only thing I did and I wrote them myself.
+
+### 13. Quality Assurance 
+
+Yes, I think this is the thing I used ChatGPT the most for. Whenever I would get an error and not immediately be able to resolve it, I would copy and paste my entire cody into ChatGPT. It would be able to pinpoint the error in seconds, give an explanation as to why it was wrong, and  provide a solution. This has likely saved me hours of debugging, and got rid of one of the most irritating elements of coding. 
+
+## 14. Other Uses
+
+None.
 
 
 
