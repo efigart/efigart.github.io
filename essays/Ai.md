@@ -69,7 +69,7 @@ Unlike previous ICS classes I have been in, I did not write that much, if any, d
 
 Yes, I think this is the thing I used ChatGPT the most for. Whenever I would get an error and not immediately be able to resolve it, I would copy and paste my entire cody into ChatGPT. It would be able to pinpoint the error in seconds, give an explanation as to why it was wrong, and  provide a solution. This has likely saved me hours of debugging, and got rid of one of the most irritating elements of coding. 
 
-## 14. Other Uses
+### 14. Other Uses
 
 None.
 
@@ -83,6 +83,9 @@ I think it definitely has practical uses outside the scope of coding classes. An
 
 ## Challenges and Opportunities 
 
+I think the main issue / challenge for me was the over-reliance on ChatGPT for answers. The convience of being able to recieve feedback almost instantly is hard to beat. As a result, I think my overall understanding of the code was hindered. I think a lot of other student suffered in similar ways. I don't think there is a simple solution, Ai is only going to become more prevalent as time goes on, I think students have to decide for themsleves how much they are going to rely on it. 
+
+## Comparitive Analysis 
 
 
 
