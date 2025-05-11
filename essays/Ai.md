@@ -73,6 +73,15 @@ Yes, I think this is the thing I used ChatGPT the most for. Whenever I would get
 
 None.
 
+## Impact on Learning and Understanding 
+
+I think the use of ChatGPT has improved my understanding, it is able to offer instant solutions that can explain the problem and solution in various ways. I think my comphrehension has increased as a reult. However, I think it has reduced my problem-solving skills. Whenever I run into a problem, my first instinct is to copy and paste it into ChatGPT to find the soltion. This is efficent, but it removes the process of debugging. Debugging is important because it allows you to go over your code multiple times, this deepens your understanding of it, and sometimes even allows you to find a more efficent way to write certain code. I have mixed feelings about the use of ChatGPT for instances like this, but in the future I think I will give myself a set amount of time to find a soltion before I consult ChatGPT. I think this will allow me to improve my skills, without having to spend hours debugging.
+
+## Practical Applications 
+
+I think it definitely has practical uses outside the scope of coding classes. An example would be testing a project. Asking ChatGPT to explore or predict any problems and issues prior to releaase / deployment would be very helpful. It could catch missed errors, or offer improvements that would make the project more efficent for users and developers. 
+
+## Challenges and Opportunities 
 
 
 
