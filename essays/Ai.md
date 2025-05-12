@@ -91,5 +91,9 @@ Compared to traditional methods like reading docuumnets or consulting stack over
 
 ## Future Considerations 
 
+I think Ai such as ChatGPT will continue to have presence within software engineering education. In order to combat the negative effects of this (as mentioned above), I think educators will need to incorporate teaching styles that emphasize critical thinking and problem solving. 
 
+## Conclusion 
+
+Overall, Ai has become, and will continue to be a part of software engineering education. I think it definetly has its benefits, it has helped me a lot thoughout the semester. However, it is hard to ignore some of the negative effects. I think that a balance of Ai and traditional learning will help students exceed. 
 
