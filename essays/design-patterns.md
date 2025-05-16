@@ -4,7 +4,7 @@ type: essay
 title: "The Blueprint"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-24
-published: true
+published: false
 labels:
   - UX Design 
 ---
