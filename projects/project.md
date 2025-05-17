@@ -7,5 +7,6 @@ date: 2023
 published: true
 labels:
   - Vercel
-summary: "A program to emulate a rock paper sciccors game with a CPU. This was an assignment for ICS 211."
+  - Web Development
+summary: "I worked with a team to create a program connect students to companies. This was my final project for ICS 314."
 ---
