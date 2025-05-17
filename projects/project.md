@@ -41,3 +41,5 @@ Most of my work was front-end based, while my classmates were focused on the bac
 Here is a screenshot of the student-home page I created. It pulls data from the schema of the student account. Implementing functionality took many attempts. 
 
 ## Learning
+
+
