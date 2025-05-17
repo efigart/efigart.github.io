@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="/img/landing-page.png" width="300" height="300">
+image: img/landing-page.jpg
 title: "Project Janus"
 date: 2023
 published: true
