@@ -8,7 +8,7 @@ published: true
 labels:
   - Vercel
   - Web Development
-summary: "I worked with a team to create a program connect students to companies. This was my final project for ICS 314."
+summary: "I worked with a team to create a program to connect students to companies. This was my final project for ICS 314."
 ---
 
 ![](img/landing-page.png)
