@@ -21,3 +21,12 @@ Specifically, we took advantage of Issue Driven Project Management. This is wher
 
 I think this method of managament can be applied to more than just code. I can see myself using it for future projects or assignemnts like a research paper. I think turning every individual task into a trackable issue makes it easier to manage deadlines, and track progress.
 
+## Open Source Software Development 
+
+Prior to this class, the term "open-source" was unfamiliar to me, I thought it just meant anybody could access it. Now, I understand that it is a model that is built on collaboration and transparency. This semester, we worked with sort-of public Githib repos duirng our final project. We learned how to follow the coontribution guidelines, and make meaningful pull request / commit messages. Additionally, we based our own repository off of the Bowfolios repository created by the professor. 
+
+This process has taught me how to communicate with my peers / other developers. Hhaving code that works is not enough, it needs to be understandable to everyoen involved in order to be truly sucessful. I learned that my actions, regardless if it is a bug fix, documentation, or functional code, is contributing to a something that extends beyond me. I think these principles can apply outisde of coding as well. In any group based project, open contribution and clear guidelines can lead to better teamwork and better results.
+
+
+
+
