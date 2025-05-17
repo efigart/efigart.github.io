@@ -10,3 +10,6 @@ labels:
   - Web Development
 summary: "I worked with a team to create a program connect students to companies. This was my final project for ICS 314."
 ---
+
+![](images/landingpg.png)
+
