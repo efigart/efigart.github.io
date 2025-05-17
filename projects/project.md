@@ -28,8 +28,16 @@ I developed this web application along with 3 other classmates. Using issue driv
 
 - Created mockups for the landing page + student home page
 - Implemnted functionality to the navbar, assigning certain pages to certain user types
+- Converted html mockups to react 
 - Fixed a error where the navbar was repeating items
 - Implement functionality to the landing page
 - Implement functionality to the student home page (pulling data from schema)
 - Update the githiub.io site to reflect verious changes / requirments
 
+Most of my work was front-end based, while my classmates were focused on the back-end. I think we all did our fare share of work, and I enjoyed working with them. 
+
+<img src="/img/landing-page.png" alt="Screenshot of Project Janus landing page" width="800">
+
+Here is a screenshot of the student-home page I created. 
+
+## Learning
