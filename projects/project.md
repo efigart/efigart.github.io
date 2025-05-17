@@ -46,5 +46,6 @@ This was my first experience developing a web application. It allowed me to prac
 
 ## Links 
 
-Here is a link to the [githib.io](https://project-janus-3.github.io/project-janus.github.io/) site.\n
+Here is a link to the [githib.io](https://project-janus-3.github.io/project-janus.github.io/) site.  
+
 Here is a link to the [deployed web application](https://project-janus.vercel.app) on vercel.
