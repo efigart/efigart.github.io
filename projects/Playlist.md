@@ -4,7 +4,7 @@ type: project
 image: img/note.png
 title: "Playlist Mdoel"
 date: 2022
-published: true
+published: false
 labels:
   - Java
 summary: "A program to model a playlist. This was an assignment for ICS 111."
