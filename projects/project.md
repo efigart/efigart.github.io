@@ -11,7 +11,7 @@ labels:
 summary: "I worked with a team to create a program to connect students to companies. This was my final project for ICS 314."
 ---
 
-<img src="/img/landing-page.png" alt="Screenshot of Project Janus landing page" width="600">
+<img src="/img/landing-page.png" alt="Screenshot of Project Janus landing page" width="800">
 
 ## Overview 
 
