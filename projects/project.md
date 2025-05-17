@@ -15,4 +15,7 @@ summary: "I worked with a team to create a program to connect students to compan
 
 ## Overview 
 
-test
+**Project Janus** is a web-based application designed to help UH Manoa students (particularly computer science and engineering) discover internship and job opportunites.
+Additionally, it also allows for networking with companies, and even fellow students. The primary goal was to make the job-search and netwroking process more streamlined and accesible. 
+
+In the app, both students and companies are able to create accounts. Students can input their personal information, intrests, and links to thier professional profile (if they have one). Companies 
