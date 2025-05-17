@@ -6,7 +6,7 @@ title: "Software Engineering Reflection"
 date: 2025-05-14
 published: true
 labels:
-  - UX Design 
+  - software engineering 
 ---
 
 ## Intro 
