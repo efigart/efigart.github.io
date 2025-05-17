@@ -28,5 +28,8 @@ Prior to this class, the term "open-source" was unfamiliar to me, I thought it j
 This process has taught me how to communicate with my peers / other developers. Hhaving code that works is not enough, it needs to be understandable to everyoen involved in order to be truly sucessful. I learned that my actions, regardless if it is a bug fix, documentation, or functional code, is contributing to a something that extends beyond me. I think these principles can apply outisde of coding as well. In any group based project, open contribution and clear guidelines can lead to better teamwork and better results.
 
 
+## Conclusion 
+
+Overall, I think this course had broadened my understanding of software devlopment. It has shifted my mindset, my thought process has eveolved from "how do i code this?" to "how do i code this well?". I now realize that team work, organziation, and planning are key elements to software engineering. Practicing agile project managment and open collaboration has greatly improved my work ethic. More over, I can apply them to non-coding related tasks as well. I have enjoyed ths course and look forward to furthering my education. 
 
 
