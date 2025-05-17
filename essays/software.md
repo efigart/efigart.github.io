@@ -19,3 +19,5 @@ Agile Project Management is a an approach to software development that emphasize
 
 Specifically, we took advantage of Issue Driven Project Management. This is where deveopment work reloves around the Github issue tracker. Every task, issue, or bug fix was assigned to an issue. Each issue had a description of the task or problem, its own branch, and was assigned to a spefic person on the team. This method created tracability and accountability, everyone knew who was working on what and why.
 
+I think this method of managament can be applied to more than just code. I can see myself using it for future projects or assignemnts like a research paper. I think turning every individual task into a trackable issue makes it easier to manage deadlines, and track progress.
+
