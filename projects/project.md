@@ -22,3 +22,14 @@ In the app, both students and companies are able to create accounts. Students ca
 
 This app was developed as a Final Project for ICS 314.
 
+## Contributions 
+
+I developed this web application along with 3 other classmates. Using issue driven project management, we were able to create issues for each requirment of the project, and assign  each of them to one of us. Thsi ensured everything was accounted for, and done well in a relatively timely manner. Here is a list of some of the taks I contributed:
+
+- Created mockups for the landing page + student home page
+- Implemnted functionality to the navbar, assigning certain pages to certain user types
+- Fixed a error where the navbar was repeating items
+- Implement functionality to the landing page
+- Implement functionality to the student home page (pulling data from schema)
+- Update the githiub.io site to reflect verious changes / requirments
+
