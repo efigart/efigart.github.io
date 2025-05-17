@@ -42,4 +42,4 @@ Here is a screenshot of the student-home page I created. It pulls data from the 
 
 ## Learning
 
-
+This was my first experience developing a web application. It allowed me to practice skills I have already learned, while also exploring new tools and frameworks. For example, I became more familiar with ract and next.js, and learned how to deploy an application through vercel. However, I think some of the most important things I learned were non-coding related. I got to learn / expirence how to communicate and collaborate effectively in a team setting. Addtionally, utilizing issue driven project mangement helped out team stay organized and allowed us to track our progress efficently through each milestone. Overall, the skills and tools I have learned though this process are very valuable, and I will be using them in future projects. 
