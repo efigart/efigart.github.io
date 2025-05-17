@@ -15,3 +15,7 @@ When I registered for this class last year, I did not know what to expect. I ori
 
 ## Agile Project Management + Issue Driven Project Management 
 
+Agile Project Management is a an approach to software development that emphasizes literative progress and team collaboration. It encourages breaking work into small, managable tasks that are continuously tracked and evaluated. This mindset was utilized by our group during the final project, especially when some parts of the code needed to be updated or fixed during or between milestones.
+
+Specifically, we took advantage of Issue Driven Project Management. This is where deveopment work reloves around the Github issue tracker. Every task, issue, or bug fix was assigned to an issue. Each issue had a description of the task or problem, its own branch, and was assigned to a spefic person on the team. This method created tracability and accountability, everyone knew who was working on what and why.
+
