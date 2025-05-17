@@ -36,8 +36,8 @@ I developed this web application along with 3 other classmates. Using issue driv
 
 Most of my work was front-end based, while my classmates were focused on the back-end. I think we all did our fare share of work, and I enjoyed working with them. 
 
-<img src="/img/landing-page.png" alt="Screenshot of Project Janus landing page" width="800">
+<img src="/img/student-home.png" alt="Screenshot of Project Janus landing page" width="800">
 
-Here is a screenshot of the student-home page I created. 
+Here is a screenshot of the student-home page I created. It pulls data from the schema of the student account. Implementing functionality took many attempts. 
 
 ## Learning
